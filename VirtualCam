@@ -1,0 +1,30 @@
+[
+    {
+        "device_id": "89ee0e2c5110e38b",
+        "username": "shimul",
+        "password": "12345",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "bc9de8edd629a196",
+        "username": "hasif",
+        "password": "54321",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "9b7da2f8fb733f63",
+        "username": "shimul",
+        "password": "12345",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "username": "user2",
+        "password": "pass456",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+    }
+]
